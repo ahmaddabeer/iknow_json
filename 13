@@ -6,7 +6,7 @@
   "developed_by": "-",
 "first_release_year": "1974",
      "original_name": "-",
-    "current_name": "-",
+    "current_name": "SQL",
     "about": "SQL (Structured Query Language) was developed in 1974 at IBM by Donald D. Chamberlin and Raymond F. Boyce. It was originally called SEQUEL (Structured English Query Language) before being renamed SQL. It is a standard programming language used to manage and manipulate relational databases.",
     "text": "SQL (Structured Query Language) is used to interact with databases. It allows users to create, read, update, and delete data using simple statements.\n\nSQL is widely used in almost every application where databases are involved.\n\nExample of SQL code:\n\n```sql\nSELECT * FROM users WHERE age > 18;\n```\n\nSQL supports a variety of commands:\n- `SELECT` – for querying data\n- `INSERT` – for adding data\n- `UPDATE` – for modifying data\n- `DELETE` – for removing data\n\nCommon uses include:\n- Data analysis\n- Web and app development\n- Business intelligence tools\n- Database administration",
     "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Don_Chamberlin_%28cropped%29.jpg/375px-Don_Chamberlin_%28cropped%29.jpg"
